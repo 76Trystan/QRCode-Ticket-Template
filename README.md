@@ -1,6 +1,6 @@
 # QR-Code Ticket Confirmation Template
 
-This is a simple HTML template page for a ticket purchase completion email. It demonstrates a purchase completion confirmation page including a ticket ID and a QR code for entry. This is meant to be attachable to any excel/sheets list.
+This is a simple HTML & Script template for a ticket purchase completion email. It demonstrates a purchase completion template page that includes a ticket ID plus its QR code form for entry. This is meant to be attachable to any purchase completion email & the hosts guest list (Google Sheets).
 
 ## Overview
 
@@ -9,7 +9,7 @@ When a user completes a ticket purchase, this page displays:
 - A personalized greeting.
 - The event name.
 - The unique ticket ID.
-- A QR code that can be scanned at the event.
+- A QR code (Ticket ID) that can be scanned at the event.
 - A confirmation message from the event team.
 
 ## Ticket Scanning Instructions (For Event Staff)
